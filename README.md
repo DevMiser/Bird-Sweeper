@@ -1,6 +1,4 @@
-# The Bird-Sweeper
-
-<img width="461" alt="B1" src="https://github.com/DevMiser/Bird-Sweeper/assets/22980908/0fca9c41-a781-43c1-8dc8-e48aa376c733">
-<img width="435" alt="B2" src="https://github.com/DevMiser/Bird-Sweeper/assets/22980908/3d88019a-1909-44f9-a8c5-d4fc0e12d587">
-<img width="474" alt="B3" src="https://github.com/DevMiser/Bird-Sweeper/assets/22980908/d7889414-86d7-4b46-9d6d-e91df5bd40c8">
-<img width="473" alt="B4" src="https://github.com/DevMiser/Bird-Sweeper/assets/22980908/2ee469ef-5b20-4b62-8d9f-f6aa6f92c063">
+<img width="461" alt="B1" src="https://github.com/DevMiser/Bird-Sweeper/assets/22980908/15910768-d445-4b28-bbc0-c1e417334ac8">
+<img width="435" alt="B2" src="https://github.com/DevMiser/Bird-Sweeper/assets/22980908/8d12e547-520c-4618-9ecc-498dff620741">
+<img width="474" alt="B3" src="https://github.com/DevMiser/Bird-Sweeper/assets/22980908/b4aa0aa2-eb2c-467d-b60f-04993fcee116">
+<img width="473" alt="B4" src="https://github.com/DevMiser/Bird-Sweeper/assets/22980908/91b11b41-2cf4-4a85-afa8-b93ebed110c9">
